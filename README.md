@@ -4,6 +4,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Bhumika!;Computer+Science+%26+Engineering+Student+%40+A.I.E.T;Very+determined+beginner+%F0%9F%9A%80;Learning+Front-End+%26+different+languages;Secretly+CEO+of+Louis+Vuitton+%F0%9F%A4%AB" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <br/>
+  <a href="https://www.linkedin.com/in/bhumikarbolar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:bhumikabolar@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Open%20To-Internships-22c55e?style=for-the-badge"/>
+</div>
+
 ---
 
 ## 👩‍💻 About Me
@@ -17,15 +24,19 @@
 
 ---
 
-## 🛠️ Skills
+## 🎓 Education
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" alt="skills"/>
-</div>
+| Degree | College | Status | CGPA |
+|---|---|---|---|
+| B.E. Computer Science & Engineering | Alva's Institute of Engineering and Technology, Moodbidri | Final Year | 9.02 |
 
 ---
 
-## 🏅 Badges
+## 🛠️ Skills
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,flask,sqlite,git,github,vscode" alt="skills"/>
+</div>
 
 <div align="center">
 
@@ -33,24 +44,39 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 My GitHub Stats
+## 🚀 Projects
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bhumikabolar&show_icons=true&theme=radical&hide_border=true" alt="stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumikabolar&layout=compact&theme=radical&hide_border=true" alt="top langs"/>
-</div>
+| Project | What it is | Tech |
+|---|---|---|
+| 🌴 **Experience India** | Tourism website for coastal Karnataka | React, CSS |
+| 🔐 **Password Vault** | Password strength predictor with an ML model | React, Flask, Scikit-learn |
+| 🃏 **Memory Flip** | Card-matching game | React, JavaScript |
+| 🌾 **AGROVA AI** | Team-built smart agriculture platform | Python |
+
+👉 [See all my repositories](https://github.com/Bhumikabolar?tab=repositories)
 
 ---
 
-## 📫 Contact
+## 🎯 Open To
+
+- 💼 Internships and entry-level opportunities
+- 🤝 Hackathons and team projects
+- 📚 Learning from every project I build
+
+---
+
+## 📫 Let's Connect
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/bhumikarbolar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:bhumikabolar@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Bhumikabolar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
