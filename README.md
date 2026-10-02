@@ -1,28 +1,28 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Bhumika%20R%20Bolar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Front-End%20Learner&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=230&section=header&text=Bhumika%20R%20Bolar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CSE%20Student&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Bhumika!;Computer+Science+%26+Engineering+Student+%40+A.I.E.T;Very+determined+beginner+%F0%9F%9A%80;Learning+Front-End+%26+different+languages;Secretly+CEO+of+Louis+Vuitton+%F0%9F%A4%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF4FA3&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Bhumika!;Full+Stack+Developer+%F0%9F%92%BB;Computer+Science+%26+Engineering+%40+A.I.E.T;Very+determined+and+always+learning+%F0%9F%9A%80;Secretly+CEO+of+Louis+Vuitton+%F0%9F%A4%AB" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/bhumikarbolar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:bhumikabolar@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Open%20To-Internships-22c55e?style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/bhumikarbolar"><img src="https://img.shields.io/badge/LinkedIn-Connect-FF4FA3?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:bhumikabolar@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-FF85C0?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Open%20To-Internships-D6336C?style=for-the-badge"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science & Engineering student @ **A.I.E.T**
+- 💻 **Full Stack Developer**: I build the frontend and the backend
 - 🌍 Based in **Karnataka, India**
-- 🧠 I'm learning **Front-End**
-- 💪 A very determined beginner on a learning journey
+- 💪 Very determined and always learning something new
 - ⚡ I'm secretly CEO of Louis Vuitton... *don't tell anybody* 🤫
 - ✉️ Contact me at **bhumikabolar@gmail.com**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🎓 Education
 
@@ -30,27 +30,35 @@
 |---|---|---|---|
 | B.E. Computer Science & Engineering | Alva's Institute of Engineering and Technology, Moodbidri | Final Year | 9.02 |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🛠️ Skills
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,flask,sqlite,git,github,vscode" alt="skills"/>
-</div>
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=light" alt="frontend"/>
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=python,flask,sqlite&theme=light" alt="backend"/>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="tools"/>
+
+![HTML5](https://img.shields.io/badge/HTML5-FF4FA3?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF85C0?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-D6336C?style=for-the-badge&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF4FA3?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-FF69B4?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-FF85C0?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🚀 Projects
 
@@ -63,22 +71,22 @@
 
 👉 [See all my repositories](https://github.com/Bhumikabolar?tab=repositories)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🎯 Open To
 
-- 💼 Internships and entry-level opportunities
+- 💼 Internships and entry-level full stack roles
 - 🤝 Hackathons and team projects
 - 📚 Learning from every project I build
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 📫 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bhumikarbolar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:bhumikabolar@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Bhumikabolar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bhumikarbolar"><img src="https://img.shields.io/badge/LinkedIn-FF4FA3?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:bhumikabolar@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Bhumikabolar"><img src="https://img.shields.io/badge/GitHub-D6336C?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=120&section=footer" width="100%" alt="footer"/>
